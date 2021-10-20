@@ -1,7 +1,10 @@
 ### Joint-encoding VAE for zebra finch song spectrograms and neural data
 
-This is code used to perform the VAE analyses in
-"Neural dynamics underlying birdsong practice and performance" (in press).
+This is code used to perform the VAE analyses in:
+
+> Singh Alvarado, J., Goffinet, J., Michael, V. *et al.* Neural dynamics
+> underlying birdsong practice and performance. *Nature* (2021).
+> [https://doi.org/10.1038/s41586-021-04004-1](https://doi.org/10.1038/s41586-021-04004-1)
 
 The main files are `ssl/poe_finch.py`, which contains the product of experts
 joint-encoding VAE, and `ssl/cca_finch.py`, which contains the baseline
